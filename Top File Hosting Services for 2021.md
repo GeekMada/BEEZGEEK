@@ -1,0 +1,377 @@
+Updated: 22/05/2021
+
+Recomended:
+Nitroflare - http://bit.ly/nitroflarecom
+FileFactory - http://bit.ly/2WuFM41
+Rapidgator - https://bit.ly/rapidgatorcom
+UploadGIG - https://uploadgig.com/premium/index/323338333036
+Oxy.Cloud - https://app.oxy.cloud/invite/24711
+Upload RAR - https://uploadrar.com/free11433.html
+DDL.to - https://ddl.to/free2112.html
+DDL.to - https://ddownload.com/free2112.html
+Drop APK - https://dropapk.to/free37666.html
+GigaPeta - http://bit.ly/2SkoxiC
+
+PPI (Pay Per Install)
+PinapFile - http://bit.ly/pinap_installs
+DFile - http://dfile.su
+DFile - https://payperinst.com/?ref=34387
+
+Paying:
+Gulf Up - https://www.gulf-up.com/free38847.html
+Minimum payout: $1 by PayPal and pay less than a week. Not guarantied payouts.
+
+Free (Not monetized):
+Mediafire - https://mediafire.com
+Mega.nz - https://mega.nz/aff=T3ee3mdvwJc
+AnonFiles - https://anonfiles.com
+AnonFile - https://anonfile.com
+2Shared - https://www.2shared.com
+4Shared - https://www.4shared.com
+BayFiles - https://bayfiles.com
+OneDrive - https://onedrive.live.com
+Yandex Disk - https://yadi.sk
+Dropbox - https://www.dropbox.com/
+Dropbox - https://db.tt/U6TnWtb2
+UbiqFile - http://ubiqfile.com
+Sendspace - http://www.sendspace.com
+FT File Hosting - https://ftmbox.top
+ComboBox FS - http://combobox.top
+UploadGram - https://uploadgram.me/upload/
+Ex-Load - https://ex-load.com <--- Monetization only by PPS
+
+Listed:
+Filedot - https://filedot.xyz/free4659.html
+UploadFiles - https://uploadfiles.io/?ref=36d4511
+UploadFiles - https://ufile.io/?ref=36d4511
+DepositFiles - https://depositfiles.com
+RGhost - http://rgho.st
+Gett - https://ge.tt
+1fichier - http://bit.ly/1fichiercom
+Bitster - https://bitster.cz
+BRupload - https://www.brupload.net/free66872.html
+ClickNupload - https://clicknupload.org/free59595.html
+Cloud Share - https://cloud-share.in/free57.html
+Data - https://data.hu
+Data FileHost - https://www.datafilehost.com
+Free.fr - https://dl.free.fr
+DosYa - https://dosya.tc
+Easybytez - https://easybytez.com
+eDisk - http://bit.ly/ediskcz
+FileRIO - https://filerio.in
+Uloz - https://www.uloz.to
+4Shared UA - http://4shared.com.ua
+XUP Filehoster - http://www.xup.in
+Linx - https://linx.li
+Android Host - https://androidhost.org
+File2Host - https://f2h.io
+Solidfiles - https://www.solidfiles.com
+Hostr - https://hostr.co
+DROP.me - https://drop.me
+MountFile - https://mountfile.net
+Load.to - https://www.load.to
+TusFiles - http://tusfiles.com
+Upstore - https://upstore.net
+Hitfile - https://hitfile.net
+TurboBit - http://turbobit.net
+Wayupload - http://wayupload.com
+Gofile - https://gofile.io
+Uploadify - https://uploadify.net
+Userscloud - https://userscloud.com/free2399985.html
+DropMeFiles - https://dropmefiles.com
+Superload - https://superload.cz/?r=qgxkb
+Webshare - https://webshare.cz
+UptoBox - https://uptobox.com/affiliate?aff_id=11567793
+KatFile - http://katfile.com/free290307.html
+Upload.EE - https://www.upload.ee
+Files FM - https://files.fm
+9xUpload - http://bit.ly/9xUpload
+BayFiles - https://bayfiles.com
+BDUpload - https://bdupload.asia
+MegaUpload - https://megaupload.nz
+FileBuzz - https://file.bz
+File Town - https://file.town
+DropFile - https://dropfile.nl
+UploadRun - https://upload.run
+Earn4Files - http://bit.ly/Earn4Files
+NippySpace - https://nippyspace.com
+Chomikuj.pl - http://chomikuj.pl
+uloz.to - https://ulozto.net
+Datoid - https://datoid.cz/?p=842336
+Datator - http://www.datator.cz
+Euro Share - https://euroshare.eu/r/94464726
+IcerBox - https://icerbox.com
+Fire Get - http://fireget.com
+Europe UP - https://www.europeup.com/free10324.html
+Indishare - https://www.indishare.org/free104010.html
+IntoUpload - https://intoupload.net/free5498.html
+MexaShare - https://mx-sh.net
+MexaShare - http://mexashare.com
+Fex - https://fex.net
+Files.FM - https://files.fm/l/V7gMHuHPhwG5
+NovaFile - https://novafile.com
+MegaUp - https://megaup.net/
+Filedd - http://www.filedd.com
+FlorenFile - https://florenfile.com/free136843.html
+FreeDisc - https://freedisc.pl/
+WDupload - https://www.wdupload.com/ref/242npfc40
+AlfaFile - http://alfafile.net/user/signup/ARwq
+File.AL - https://file.al/free192101.html
+Send Anywhere - https://send-anywhere.com
+WeTransfer - https://wetransfer.com
+Amazon Drive - https://www.amazon.com/clouddrive
+FileTransfer - https://filetransfer.io
+SendGB - https://www.sendgb.com
+Teknik - https://upload.teknik.io/
+File Dropper - https://www.filedropper.com/
+Tresorit Send - https://send.tresorit.com/
+Hey Ants - https://www.heyants.com/
+Uschovna - https://www.uschovna.cz/en/
+CommonClip - https://commonclip.com/
+Send Secure - https://sendsecure.io/
+RapidRAR - https://rapidrar.com/
+Texzfiles - https://tezfiles.com/
+RapidU - https://rapidu.net/ref/8431459478/
+File Boom - http://fboom.me
+File Boom - http://fileboom.me
+Publish 2 - https://publish2.me
+Hot Link - https://hotlink.cc/free190476.html
+Upload Cloud - https://www.uploadcloud.pro
+Openload.cc - https://openload.cc
+WorkUpload - https://workupload.com
+MegaUpload - https://megaupload.is
+Lets Upload - https://letsupload.cc
+ForumFiles - https://forumfiles.com
+Up4Ever - https://www.up-4ever.org/free631351.html
+DropFile NL - https://dropfile.nl
+MyFile - https://myfile.is
+Fuskbugg - https://fuskbugg.se
+Minfil - https://minfil.com
+SubyShare - https://subyshare.com
+UploadHaven - https://uploadhaven.com
+HugeSharing - https://hugesharing.net/free49127.html
+TakeFile - https://takefile.link
+PreFiles - https://prefiles.com
+Upload AC - https://upload.ac/free45898.html
+UP-Load - https://up-load.io/free2835.html
+XenDrive - https://xendrive.ru/
+SendFile - http://sendfile.su/
+File-Mix - https://file-mix.com/register/2168
+Upload42 - http://upload42.com
+Ausfile - https://ausfile.com/free23934.html
+FileSpace - http://filespace.com/free173542.html
+Xubster - https://xubster.com/free83063.html
+DropSend - https://www.dropsend.com
+Saber Cat - https://sabercathost.com/?aff=61b198c15054e8c5
+OpenDrive - https://www.opendrive.com
+FileBTC - https://filebtc.com/free9.html
+Anonymous Files - https://anonymousfiles.io
+File Convoy - http://www.fileconvoy.com
+Pubg-File - http://pubg-file.si
+XFileLoads - https://www.xfileloads.com/free731.html
+MyFiles Online - http://myfiles.onl/free9742.html
+TStorage - http://tstorage.info/free9017.html
+TDR Link - https://tdr.link/free4.html
+My Store - http://mystore.to
+Filestore - http://filestore.to
+Cloud Mail.ru - https://cloud.mail.ru
+UppIT - http://uppit.com
+Sendit Cloud - https://sendit.cloud
+TooFile - https://www.toofile.com/free91.html
+UploadHive - http://uploadhive.com/free978.html
+Files Bomb - http://filesbomb.in/free3607.html
+FileLoad - http://fileload.info/free5472.html
+Dosya Yukle - https://dosya.co
+Racaty - https://racaty.com/free89980.html
+LongFiles - http://longfiles.com
+DZ4Up - https://dz4up1.com
+World Uploads - https://worlduploads.com/free1065.html
+SpicyFile - http://spicyfile.com/free72608.html
+Gofile - https://gofile.io
+Ska4ay - http://ska4ay.com/user/register/?ref=374841
+MixDrop - https://mixdrop.co
+MixShared - http://mixshared.com/free16475.html
+Easy File Cloud - https://easyfilecloud.com/free98.html
+Upload Bank - http://uploadbank.com/
+Userupload - https://userupload.in/free1901.html
+Mega4up - https://mega4up.com/free2683.html
+MagUp - https://magup.tk
+Hexupload - http://hexupload.net/free668.html
+vShare.io - https://vshare.io
+CyberDrop - https://cyberdrop.me
+xFiles - https://xfiles.io/free1884.html
+Upload Earn - https://upload-earn.com/ref/hacxx
+RockFile - https://rockfile.co/aff100025
+XShare.Club - https://xshare.club/?aff=af80f3804ac2d32b
+Uguu - https://uguu.se
+Fshare - https://www.fshare.vn
+Temp Ninja - https://tmp.ninja
+UsersDrive - https://usersdrive.com/free38470.html
+CloudOza - https://drive.cloudoza.me
+Firefox Send - https://send.firefox.com
+Happy-Team - http://upload.happy-team.org:8080/upserver/index.php
+Sapo Transfer - https://transfer.sapo.pt
+UploadServ - http://uploadserv.com/free2607.html
+WIP Files - http://wipfiles.net/free74812.html
+Wupfile - https://wupfile.com/free120352.html
+Hishare - http://hishare.net/free1684.html
+Down4Files - http://down4files.com/free1658.html
+UP VBIran - http://up.vbiran.ir/
+Easyload - https://easyload.io
+GoLoady - https://www.goloady.com/ref/g11lxnnn4g7d
+Files HQCombo - https://files.hqcombo.com/
+HulkLoad - http://hulkload.com/free45248.html
+FileFox - https://filefox.cc
+FileJoker - https://filejoker.net
+Keep2Share - https://k2s.cc
+Keep2Share - http://keep2share.cc
+UploadCenter - https://uploadcenter.com
+HxFile - https://hxfile.co/free105.html
+XenDrive - https://xendrive.ru
+vShare - https://vshare.is
+Filecad - https://www.filecad.com/?aff=3f1632034017cb9d
+SendThisFile - https://www.sendthisfile.com
+MailBigFile - https://free.mailbigfile.com
+Daofile - https://daofile.com
+FileCargo - http://filecargo.com
+FastStore - https://faststore.org/free211652.html
+InCloudDrive - https://www.inclouddrive.com
+FilePup - http://www.filepup.net
+OzoFiles - https://ozofiles.com/free6258.html
+Worldbytez - https://worldbytez.com
+EgyUpload - https://egyupload.com/free1736.html
+Filetut - http://asmfile.com/free19337.html
+DFile - https://dfile.space
+RarLoad - http://rarload.com
+RarLink - https://www.rarlink.com/free276.html
+LetsUpload - https://letsupload.co
+Forex Makers - http://www.forex-makers.com/uploader/index.php
+Milordftp - http://www.milordftp.com.ar/sube/index.php
+Upload Center - https://www.babup.com/
+ZipFile - https://zipfile.cc/free1203.html
+DropGalaxy - https://dropgalaxy.com/free3269.html
+MiCloudFiles - http://micloudfiles.com/free2044.html
+FileSharing24 - https://filesharing24.com
+Box - https://www.box.com/file-sharing
+ZipCloud - https://magup.tk/
+Daily Uploads - https://dailyuploads.net/free123658.html
+UpFile - https://upfile.co.il
+Lil File - https://lilfile.com/
+File4Net - https://www.file4.net/register?ref=9DY
+Catbox - https://catbox.moe/
+Dosya - https://dosya.pro
+FileCloud - https://filecloud.me
+Files.PW - https://files.pw/free39588.html
+Uploading VN - https://uploading.vn/free142.html
+FileAuth - https://fileauth.me
+Sql.gg - https://sql.gg
+ZipEver - https://zipever.com
+Uplovd - https://uplovd.com
+File Chick - http://filechick.com
+Anon City - https://anon.city
+Speed Down - https://speed-down.org/free17236.html
+Send - https://send.cm
+xFileSharing - https://xfilesharing.com
+Uppom - http://uppom.live
+Uptocloud - https://uptocloud.co/free455.html
+MixDrop - http://mixdrop.to/
+UploadHUB - https://uploadhub.io/free184.html
+Pixel Drain - https://pixeldrain.com
+WD Filehosting - https://wdho.ru
+FileLeaks - https://fileleaks.com
+PicoFile - http://picofile.com
+UniBytes - http://www.unibytes.com
+Filebin - https://filebin.net
+Easyupload - https://easyupload.io/
+FastDrive - https://fastdrive.io/
+Nelion - https://nelion.me/free4372.html
+NippyFile - https://nippyfile.com/
+UploaDEV - https://uploadev.org/free5626.html
+Treasure Cloud Storage - http://bit.ly/Treasure-cloud
+FileUp - https://fileup.in
+Your Drive Box - https://youdbox.net/free89.html
+CloudFile - https://cloudfile.cc/free2369.html
+FastBit.cc - https://fastbit.cc/
+Booxier - https://booxier.com/free3.html
+FastFile - https://fastfile.cc/free626.html
+FileNetwork - http://filenetwork.com/free23.html
+Google Drive - https://drive.google.com
+FileRocker - https://filerocker.com/free2155.html
+FileSuper - http://filesuper.com/free25245.html
+Jolin File - http://jolinfile.net/free12697.html
+SecureDatabit - https://www.securedatabit.com/free11.html
+The7Sky - http://the7sky.info/free1199.html
+FileLox - https://filelox.com/free234.html
+UploadMaza - https://uploadmaza.com/free237.html
+UploadMoon - https://uploadmoon.com/free412.html
+XFileSharing - http://xomshare.com/free2.html
+ZoFile - http://zofile.com/free834.html
+Bashupload - https://bashupload.com
+Transfer - http://transfer.sh
+UploadBaz - https://uploadbaz.me/free7107.html
+VeryFiles - https://veryfiles.com/free6431.html
+FileEver - http://fileever.net/
+XFileSharing - https://stablestore.org/free7.html
+FlashBit - https://flashbit.cc/free3029.html
+Desiupload - https://desiupload.co/free4544.html
+ChiliUpload - https://chiliupload.com/free7.html
+Hot4Share - https://hot4share.com/free1451.html
+FilesABC - http://filesabc.com/free6.html
+Filesona - https://filesona.com/free29.html
+DLShareFile - https://dlupload.com/ref?id=NzdhODA5MT
+UploadBoy - https://uploadboy.com/free2716171.html
+Files Rack - https://filesrack.com/free13.html
+HareFile - http://harefile.com/free11198.html
+
+SCAMMERS LIST
+ShareLink - http://www.sharelink.li/
+Uploads are disabled for your user type
+
+Uploaded.to - http://bit.ly/2FYwCYv
+Uploaded.net - http://bit.ly/2FYwCYv
+Service is paying but they throtle the connection which makes it almost impossible to download big files without paying.
+
+Media1Fire - http://bit.ly/Media1Fire
+404 page not found. The service is not online.
+
+[SCAMMER] File-Up - http://bit.ly/File_Up
+Minimum Payout $1. After admin made changes in the site and domain all profits were taken away and not paying. When the admin was paying, the payments got a long delay. Thanks.
+
+[SCAMMER] FileTitle - https://filetitle.com/free1166.html / https://filezip.cc/free1166.html
+100% scammer. The admin pump the stats with referral earnings to make users purchase premium. When the minimum is reach the accounts are suspended. 
+
+SakuraFile - http://sakurafile.com/free39731.html
+Uploads are disabled.
+
+RapidShare - https://rapidshare.nu
+Redirecting to anonfiles.com
+
+UploadShip - https://www.uploadship.com/?aff=1c693803f99cab77
+The service has been closed.
+
+FileCloud - https://filecloud.to/
+Registration disabled
+
+UploadHub - https://uploadhub.ws/
+Registration disabled
+
+MTBox - https://www.mtbox.cc/
+1x 404 Cloudflare is unable to connect to server.
+
+My Sharing - https://mysharing.cc/
+XFileSharing default template and require premium to upload.
+
+Storex - https://storex.cc/
+Unable to register, captcha is broken.
+
+VipFile - https://vipfile.cc/
+Uploads are disabled for your user type.
+
+ChayFile - http://www.chayfile.com/
+Unable to register, registration form doesn't exist.
+
+AndroidFileHost - https://androidfilehost.com/
+Unable to upload even after registering.
+
+OBOOM - https://www.oboom.com
+For some time showing Cloudflare error 522. Unable to connect.
