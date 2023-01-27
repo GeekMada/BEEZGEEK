@@ -1,0 +1,12 @@
+In July 2015, the Qatar National Bank suffered a data breach which exposed 15k
+documents totalling 1.4GB and detailing more than 100k accounts with passwords and PINs.
+The incident was made public some 9 months later in April 2016 when the documents appeared
+publicly on a file sharing site. Analysis of the breached data suggests the attack began
+by exploiting a SQL injection flaw in the bank's website.
+
+Compromised data: Bank account numbers, Customer feedback, Dates of birth, Financial transactions,
+Genders, Geographic locations, Government issued IDs, IP addresses, Marital statuses, Names,
+Passwords, Phone numbers, Physical addresses, PINs, Security questions and answers, Spoken languages
+
+Download: (Original)
+https://link-hub.net/68451/qatar-national-bank-datab
