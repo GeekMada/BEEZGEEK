@@ -1,1 +1,8 @@
+In approximately August 2022, the Alt-Right Video sharing platform BrandNewTube suffered
+a data breach that impacted 347k members. The breach included Email addresses, Private messages,
+Videos posted, Comments, IP Addresses, Genders, Usernames and Passwords stored as SHA-1 hashes.
+Due to BrandNewTube using an outdated hashing method, it allowed many passwords to be rapidly cracked.
+The breach occurred because of a 2 year old vulnerability, which was the same way it was hacked back in 2020.
 
+Download: (Original)
+https://direct-link.net/68451/brandnewtube-2022-databas
