@@ -1,0 +1,13 @@
+In November 2022, the Turkish Citizens Health Database "Halk Sağlığı Yönetim Sistemi" (HSYS) (hsys.saglik.gov.tr)
+suffered a data breach that impacted 100 over million citizens. The attack led to the exposure of data including
+Full names, Dates of birth, General location (City & District), Parents names and Parents ID Numbers.
+
+This thread includes the raw database files and a .sql dump of the data for easy viewing.
+
+I would like to warn users this leak is over 23.54GB uncompressed and 8.92GB compressed.
+
+Compromised data: Citizen ID Numbers, Full names, Dates of birth, General location (City & District),
+Parents names, Parents ID Numbers
+
+Download: (Original)
+https://direct-link.net/68451/halk-sagligi-yonetim-sist
