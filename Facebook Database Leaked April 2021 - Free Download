@@ -1,0 +1,14 @@
+In April 2021, a large data set of over 500 million Facebook users was made freely available for download.
+Encompassing approximately 20% of Facebook's subscribers, the data was allegedly obtained by exploiting a
+vulnerability Facebook advises they rectified in August 2019. The primary value of the data is the association
+of phone numbers to identities; whilst each record included phone, only 2.5 million contained an email address.
+Most records contained names and genders with many also including dates of birth, location, relationship status
+and employer.
+
+I would like to warn users this leak is over 77.3GB uncompressed and 12.17GB compressed.
+
+Compromised data: Dates of birth, Email addresses, Employers, Genders, Geographic locations,
+Names, Phone numbers, Relationship statuses
+
+Download: (Original)
+https://link-center.net/68451/facebook-database-leaked
