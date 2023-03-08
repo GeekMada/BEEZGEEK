@@ -1,0 +1,9 @@
+In August 2012, the Xiaomi user forum website suffered a data breach. In all, 7 million
+email addresses appeared in the breach although a significant portion of them were numeric
+aliases on the bbs_ml_as_uid.xiaomi.com domain. Usernames, IP addresses and passwords
+stored as salted MD5 hashes were also exposed.
+
+Compromised data: Email addresses, IP addresses, Passwords, Usernames
+
+Download:
+https://direct-link.net/68451/xiaomi-forum-database-lea
