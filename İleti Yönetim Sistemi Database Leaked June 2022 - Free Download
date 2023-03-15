@@ -1,0 +1,8 @@
+In approximately June 2022, a government messaging system for Turkey named "IYS (İleti Yönetim Sistemi)",
+had it's database leaked due to an exposed ElasticSearch server. The leak exposed Names, Email addresses,
+Phone numbers, Usernames and Home Addresses.
+
+Compromised data: Names, Email addresses, Phone numbers, Usernames, Home addresses
+
+Download: (Original)
+https://link-center.net/68451/ileti-yonetim-sistemi-dat
