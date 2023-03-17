@@ -1,0 +1,11 @@
+In approximately September 2022, the Image sharing website ClickASnap suffered a data breach
+that impacted 3.3 million members. The breach included Full names, Email addresses, Social media profiles, 
+Physical addresses, Orders made and Passwords stored as SHA512 hashes (Bcrypt Passwords for forum users). 
+It was breached the database through leaked Amazon RDS credentials.
+
+Please note that a lot of entries do not contain a password due to SSO signon.
+
+Compromised data: Full names, Email addresses, Social media profiles, Physical addresses, Orders made, Passwords
+
+Download: (Original)
+https://link-center.net/68451/clickasnap-database-leake
