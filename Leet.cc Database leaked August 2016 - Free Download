@@ -1,0 +1,12 @@
+In August 2016, the service for creating and running Pocket Minecraft edition servers
+known as Leet was reported as having suffered a data breach that impacted 6 million
+subscribers. The data includes usernames, email and IP addresses and SHA512 hashes.
+The encryption method for passwords is SHA-512(pass.salt) XOR whirlpool(salt.pass).
+
+Compromised data: Email addresses, IP addresses, Passwords, Usernames, Website activity
+
+On the News:
+http://news.softpedia.com/news/data-for-6-million-minecraft-gamers-stolen-from-leet-cc-servers-507445.shtml
+
+Download:
+http://nitroflare.com/view/263BA7616D5CF18/Leet.cc_Database_leaked_August_2016.rar
