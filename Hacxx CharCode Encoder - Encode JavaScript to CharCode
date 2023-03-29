@@ -1,0 +1,14 @@
+Hacxx CharCode Encoder is a simple JavaScript encoder that convert your JavaScript text to CharCode.
+
+Note:
+You only encode after <script> and before </script>.
+The result in the encoder will require <script> and </script>.
+
+Note:
+Do not encode more than 65000 functions.
+ 
+Download: (29-03-2023)
+https://nitroflare.com/view/09A27FBD43A2869/Hacxx_CharCode_Encoder.rar
+
+Virus Scan:
+https://www.virustotal.com/gui/file/eda95e9a94448228d2249dea08a16040a253e5bd23ff6b1d898b535c7dbf4d99/detection
