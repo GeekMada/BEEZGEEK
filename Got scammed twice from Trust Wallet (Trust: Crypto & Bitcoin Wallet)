@@ -1,0 +1,22 @@
+Trust Wallet
+https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp
+
+- First transfer of 34.29 USDT TRC-20 - OK
+- Deposit TRX for outgoing transfer from Peer2Profit - https://bit.ly/Peer2Profit - OK
+- Once TRX arrieve on the wallet, used Fixedfloat (https://fixedfloat.com/?ref=8zcd9wfb) for USDT TRC-20 to BTC transfer - OK
+- Receive 4 deposits in USDT TRC-20 ($74.1 USDT TRC-20) from posting in SeekShell - https://seekshell.com/index.php?referrer=365 - OK
+- Deposit TRX from Peer2Profit - https://bit.ly/Peer2Profit - OK
+
+- Initiate a transfer of USDT TRC-20 to BTC using Fixedfloat (https://fixedfloat.com/?ref=8zcd9wfb) - Fail
+- The transfer fail with the motive of Out-of-energy and lost +/- $2 TRX
+
+- Wait +/- 1 month to get the minimum payout from Peer2Profit - https://bit.ly/Peer2Profit
+- Deposit TRX for outgoing transfer from Peer2Profit - https://bit.ly/Peer2Profit
+- Initiate a transfer of USDT TRC-20 to BTC using Fixedfloat (https://fixedfloat.com/?ref=8zcd9wfb) - Fail
+- The transfer fail with the motive of Out-of-energy and lost +/- $2 TRX
+
+Last transfer USDT TRC-20...
+https://tronscan.org/#/transaction/c7267bdf1984226b456ce6af7ded2c55
+
+Note: I got scammed from Trust Wallet as before the transfer the app informs the mount of TRX that it will require for the transfer
+and after starting the transfer it says out-of-energy and got scammed twice. Probably will have a loss of $74.1 USDT TRC-20.
