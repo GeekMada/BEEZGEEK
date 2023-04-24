@@ -1,0 +1,13 @@
+On the news:
+https://www.bleepingcomputer.com/news/security/kodi-discloses-data-breach-after-forum-database-for-sale-online/
+
+In February 2023, The Kodi Foundation suffered a data breach that exposed more than 400k user records.
+Attributed to an account belonging to "a trusted but currently inactive member of the forum admin team",
+the breach involved the administrator account creating a database backup that was subsequently downloaded
+before being sold on a hacking forum. The breach exposed email and IP addresses, usernames, genders
+and passwords stored as MyBB salted hashes.
+
+Download:
+http://bc.vc/tGL6eSu
+http://adfoc.us/50323390977338
+https://go.youshort.me/tJYO
