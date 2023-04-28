@@ -1,0 +1,6 @@
+In July 2022, the account hijacking and SIM swapping forum OGusers suffered a data breach,
+the fifth since December 2018. The breach contained usernames, email and IP addresses and
+passwords stored as argon2 hashes. A total of 529k unique email addresses appeared in the breach.
+
+Download:
+https://link-center.net/68451/ogusers-database-breached
