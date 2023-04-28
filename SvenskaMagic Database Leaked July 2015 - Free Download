@@ -1,0 +1,15 @@
+In July 2015, the online trading platform SvenskaMagic suffered a major data breach, resulting in the 
+leakage of sensitive information from the website's database. The incident not only compromised the 
+security of user accounts but also exposed the platform's trade secrets.
+
+SvenskaMagic is an online trading platform for Magic: The Gathering (MTG) players based in Sweden.
+The platform allows players to buy, sell and trade MTG cards, create and join communities and tournaments,
+and access a database of MTG cards and sets.
+
+The data breach occurred on July 17, 2015, when an anonymous hacker leaked the entire database of
+SvenskaMagic on a hacking forum. The database contained user information such as email addresses,
+usernames, hashed passwords, and trade history. It also contained the platform's source code, which
+includes the platform's codebase, the API keys, and the database credentials in MD5 or an Unknown format.
+
+Download:
+https://direct-link.net/68451/svenskamagic-database-lea
