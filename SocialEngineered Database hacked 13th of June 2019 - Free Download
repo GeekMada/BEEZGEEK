@@ -1,0 +1,10 @@
+On the 13th of June 2019 the forum socialengineered.net was breached and server shredded, 55,121 users were affected.
+I have uploaded the full database and root directory of this website for you to download and see for yourself.
+
+Compromised data: Website activity, Usernames, Emails, IP Addresses, Passwords (Salted MD5), Source code,
+Website data, User private messages
+
+Content: SQL + httpdocs Files
+
+Download 1:
+http://cigorsica.com/1lPH/SocialEngineered_Database_hacked_13th_of_June_2019.rar
