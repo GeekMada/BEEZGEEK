@@ -1,0 +1,12 @@
+In September 2014, a database belonging to Powerbot, a company that provides a chatbot service, was leaked.
+The database contained sensitive information such as names, addresses, email addresses, and chat transcripts 
+of over 5 million users.
+
+The leak was discovered by a security researcher, who alerted Powerbot to the issue. The company quickly took
+steps to secure the database and investigate the cause of the leak. It was later discovered that the leak was
+the result of a misconfigured database that was left open to the internet.
+
+The data contained email and IP addresses, usernames and salted MD5 hashes of passwords.
+
+Download: (Original)
+https://direct-link.net/68451/powerbot-database-leaked
