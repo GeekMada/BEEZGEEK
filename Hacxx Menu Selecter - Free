@@ -1,0 +1,20 @@
+Solve the program of people nowadays that use phone all the time.
+Simple option to show menus to end-client.
+
+1 - Upload a image from your restaurant menu
+2 - Click upload
+3 - Scan the QR code on your phone as test
+4 - Save the generated QR Code image
+5 - Print a few QR Code
+6 - Plug it to the tables
+
+Note: Suggest customers to install a QR Code reader from Google Play on the Android or iPhone and let them
+browse all the options available in the restaurant without requiring a internet connection and very easy 
+to create.
+
+Note 2: This tool is broken as the api doesn't accept long images in base64. Will try to fix this by using
+a diferent api to generate the QR code. 
+
+Download:
+https://oxy.name/d/whLg
+https://file.al/0bnaf4h9x91g/Hacxx_Menu_Selecter.rar.html
