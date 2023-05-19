@@ -11,3 +11,6 @@
 6 - The data
 Username: waqas_ali766
 Password: 766766
+
+From Hacxx iLeaker Solver
+https://i.postimg.cc/QDvcTMhR/passw-ords-for-waqasali766-hotmail-com.jpg
