@@ -1,0 +1,25 @@
+In October 2020, the online game for kids Animal Jam suffered a data breach which was subsequently shared through
+online hacking communities the following month. The data contained 46 million user accounts with over 7 million
+unique email addresses. Impacted data also included usernames, IP addresses and for some records, dates of birth
+(sometimes in partial form), physical addresses, parent names and passwords stored as PBKDF2 hashes. 
+
+Notes:
+After one test the password is MD5 hash and not PBKDF2 reconized with [b]Hacxx Hash Cracker[/b].
+
+Public statement:
+https://www.animaljam.com/en/2020databreach
+
+Readable Entry Format:
+Username, email, hashed password (MD5), account creation time, user birth date, IP, Country...
+
+Sample Entry:
+INSERT INTO `users` VALUES (-10,NULL,0,'CSTicketGuest','support@sleepygiant.com','213286fbd3417bb5479bc07c9b97523b993fe82d',
+NULL,NULL,NULL,NULL,'2010-06-17 18:33:00',1,1,1,1,0,0,'1970-01-01','205.214.237.234','US',NULL,NULL,'2010-06-17 18:33:00',
+'2010-06-17 18:33:00','Pacific Time (US & Canada)','34.041599','-118.298798','Los Angeles','CA',NULL,NULL,0,NULL,0,'',NULL,
+NULL,NULL,NULL,1,1,0,0,NULL,NULL,NULL,0,NULL,NULL,'en',NULL,NULL,NULL,NULL,0,1,NULL)
+
+Download:
+https://rapidgator.net/file/66b4b951662e44cb92d4afe356b6b0c4
+https://hexupload.net/568sk3yj8by9
+https://ddownload.com/kc7lx6jhkfix/Animaljam.com_Database_Leaked_October_2020.rar
+https://drop.download/xfj1l34vhxjg
