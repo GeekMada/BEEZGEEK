@@ -1,2 +1,5 @@
 Purchase Online:
 https://www.paypal.com/cgi-bin/webscr?business=hacxx20@gmail.com&currency_code=EUR&item_name=Hacxx%20Hash%20Cracker%204%20Trial&quantity=1&no_note=1&no_shipping=1&custom=iu6LC0Q94CbCgX53yDY3MyfWmn-kgDBd&charset=utf8&email=&return=&cancel_return=&notify_url=&cmd=_xclick-subscriptions&a3=29&p3=1&t3=M&src=1&sra=1
+
+Added Standard Data Encryption Standard (DES), Extended Data Encryption Standard (DESX) and Blowfish encryption algorithm to Hacxx Hash Cracker 5.
+Currently Hacxx Hash Cracker 5 support: MD5, SHA1, MySQL, NTLM, SHA256, SHA512, Bcrypt, PBKDF2, ARGON2, MD5 WordPress, DES, DESX and Blowfish.
