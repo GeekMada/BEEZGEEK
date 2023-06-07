@@ -5,3 +5,6 @@ Download:
 https://filecrypt.cc/Container/AF6A4623FD.html
 https://oxy.st/d/EbIg
 https://nitroflare.com/view/5E756E252CE1CDB
+
+Added Standard Data Encryption Standard (DES), Extended Data Encryption Standard (DESX) and Blowfish encryption algorithm to Hacxx Hash Cracker 5.
+Currently Hacxx Hash Cracker 5 support: MD5, SHA1, MySQL, NTLM, SHA256, SHA512, Bcrypt, PBKDF2, ARGON2, MD5 WordPress, DES, DESX and Blowfish.
