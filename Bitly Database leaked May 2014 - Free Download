@@ -1,0 +1,13 @@
+In May 2014, the link management company Bitly announced they'd suffered a data breach. 
+The breach contains over 9.3 million unique email addresses, usernames and hashed passwords,
+most using SHA1 with a small number using bcrypt.
+
+Warning: Bitly uses Two Factor Authentication on the user login, this means if
+you try to bruteforce any username/email and password it will automatically send a sms
+to the account owner.
+
+Download:
+http://eunsetee.com/JZ6B/Bitly_Database_leaked_May_2014.rar
+
+Download 2:
+http://nitroflare.com/view/AC6309464691157/Bitly_Database_leaked_May_2014.rar
