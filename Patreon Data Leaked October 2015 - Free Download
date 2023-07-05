@@ -1,0 +1,7 @@
+In October 2015, the crowdfunding site Patreon was hacked and over 16GB of data was
+released publicly. The dump included almost 14GB of database records with more than
+2.3M unique email addresses, millions of personal messages and passwords stored as
+bcrypt hashes.
+
+Download:
+https://filerice.com/users/hacxx/12746/Patreon%20Leak
