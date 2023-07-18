@@ -1,0 +1,13 @@
+In February 2019, data from the live broadcasting service YouNow appeared for sale on a dark web marketplace.
+Whilst it's not clear what date the actual breach occurred on, the impacted data included 18M unique email
+addresses, IP addresses, names, usernames and links to social media profiles. As authentication is performed
+via social providers, no passwords were exposed in the breach. Many records didn't have associated email
+addresses thus the unique number is lower than the reported total number of accounts.
+
+Compromised data: Email addresses, IP addresses, Names, Social media profiles, Usernames
+
+More info:
+https://techcrunch.com/2019/02/14/hacker-strikes-again/
+
+Download: (Original)
+https://link-center.net/68451/younow-database-leaked
