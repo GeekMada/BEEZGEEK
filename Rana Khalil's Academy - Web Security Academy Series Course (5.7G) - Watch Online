@@ -1,0 +1,132 @@
+Watch Online:
+43 Lab  1 OS command injection, simple case
+https://dood.yt/d/elt2sjrqf9q18n3lr64sdfvjqnsxxl9x
+
+46 Lab  4 Blind OS command injection with out-of-band interaction
+https://dood.yt/d/581hc5qzqr0v7devkd4k2vim3uga9885
+
+45 Lab  3 Blind OS command injection with output redirection
+https://dood.yt/d/rmdn4l1722y35xx33blfydwfp1sbn7r9
+
+42 Command Injection
+https://dood.yt/d/7m887u2o4imtztap9c9y5sefx1vihcxb
+
+41 Lab  4 CORS vulnerability with internal network pivot attack
+https://dood.yt/d/3mzp80r65lgv97bbbh7a8pdkbm3hyfje
+
+39 Lab  2 CORS vulnerability with trusted null origin
+https://dood.yt/d/2e5ku6slp9mvczumvc4v8mcbu1nxj1g6
+
+40 Lab  3 CORS vulnerability with trusted insecure protocols
+https://dood.yt/d/gc4piqsj22r9qxngi7bu49h5d3yb3od1
+
+36 Lab  8 CSRF with broken Referer validation
+https://dood.yt/d/sjn0tscbjl8jgwtx63l9z7pcmrxr4o87
+
+37 Cross-Origin Resource Sharing (CORS)
+https://dood.yt/d/ce45ibhjz3mgig0ceyqgkfks297qkhmq
+
+38 Lab  1 CORS vulnerability with basic origin reflection
+https://dood.yt/d/ely04ag7se0hgb0vrsgm1nrppgv5puyx
+
+34 Lab  6 CSRF where token is duplicated in cookie
+https://dood.yt/d/9iihydsskky7fuk6s9uhfxuoq51jlfcc
+
+35 Lab  7 CSRF where Referer validation depends on header being present  title
+https://dood.yt/d/7bk9z0ff160xkbz2pwk4zppqhy72hq4e
+
+33 Lab  5 CSRF where token is tied to non-session cookie
+https://dood.yt/d/ice1l035rgyfnsyt8gnsshciq2lnx6e6
+
+32 Lab  4 CSRF where token is not tied to user session
+https://dood.yt/d/4htvgybteijnetsslabqdl4mj1pfxfhb
+
+31 Lab  3 CSRF where token validation depends on token being present
+https://dood.yt/d/icd1tz5hdw9yylwotqzkgd8eel6ooor7
+
+30 Lab  2 CSRF where token validation depends on request method
+https://dood.yt/d/332p72agcena8r5n8q6vxo0cznhlbl8w
+
+29 Lab  1 CSRF vulnerability with no defenses
+https://dood.yt/d/pf032t9wcqrte9s4pmrguhckg48gomn2
+
+28 Cross-Site Request Forgery (CSRF)
+https://dood.yt/d/ydif81qlcwwqwlm1iiig7wc4qzvzde1q
+
+27 Lab  7 Blind SSRF with Shellshock exploitation
+https://dood.yt/d/w7jfutiaufz5ifwikw5n3hg3ra0nb8wg
+
+24 Lab  4 SSRF with whitelist-based input filter
+https://dood.yt/d/dxec38d2upo2qi9rj53gmqn6qxey62us
+
+25 Lab  5 SSRF with filter bypass via open redirection vulnerability
+https://dood.yt/d/urnqplpcjbox76thvervf3bcq2ovmwl4
+
+26 Lab  6 Blind SSRF with out-of-band detection
+https://dood.yt/d/n0f3m41vgg0509o684mw22xeow1ws01t
+
+23 Lab  3 SSRF with blacklist-based input filter
+https://dood.yt/d/2vu9ybsfx3n54cfytbuwc90txr9el8fi
+
+17 Lab  14 Blind SQL injection with time delays and information retrieval  title
+https://dood.yt/d/gytpnadonl62p96fl0x5e2bmcitzcxcw
+
+22 Lab  2 Basic SSRF against another back-end system
+https://dood.yt/d/a29q6s1mr23e19qaayc2n0ahcrwgdmuk
+
+20 Server-Side Request Forgery (SSRF)
+https://dood.yt/d/03qh2biteg1k5cqwe2xjagb0oqgnw4v9
+
+21 Lab  1 Basic SSRF against the local server
+https://dood.yt/d/7dxpqxlmy37p99txchtmqn23ezgmscq8
+
+19 Lab  16 Blind SQL injection with out of band data exfiltration
+https://dood.yt/d/93zw4o1eaiu46vh283o8hsg7q32kfixr
+
+18 Lab  15 Blind SQL injection with out-of-band interaction
+https://dood.yt/d/ndlfgy0j5huhf7bf51shqc4hhdjioxwt
+
+16 Lab  13 Blind SQL injection with time delays
+https://dood.yt/d/30x74brjeeai731vwy0t0aaz1vmuslv4
+
+15 Lab  12 Blind SQL injection with conditional errors
+https://dood.yt/d/dkrlrty5v7vgnb21htslkmgvc5fuwjoc
+
+14 Lab  11 Blind SQL injection with conditional responses
+https://dood.yt/d/oe6umin1innbb5mqvtuu7s41yn5rcdhh
+
+13 Lab  10 SQL injection attack, listing the database contents on Oracle  title
+https://dood.yt/d/z5now1rdi6uelgf48jo4e8trx6owntq7
+
+12 Lab  9 SQL injection attack, listing the database contents on non  title
+https://dood.yt/d/wh9irqqduvjbkkvup6ostyu91gq3msey
+
+11 Lab  8 SQLi attack, querying the database type and version on MySQL &amp;  title
+https://dood.yt/d/gfspc1103wz375t64137g9cms9539l7e
+
+10 Lab  7 SQL injection attack, querying the database type and version on  title w
+https://dood.yt/d/pzl5uz3z40ispnwx1cq60tadd864obki
+
+9 Lab  6 SQL injection UNION attack, retrieving multiple values in a  title
+https://dood.yt/d/c9dsnmlpd1xx3oqya23sgcx2z8p6q0tl
+
+8 Lab  5 SQL injection UNION attack, retrieving data from other tables  title
+https://dood.yt/d/ukxyqikfu6f5bxke2mr7j34j7l9cmzsy
+
+7 Lab  4 SQL injection UNION attack, finding a column containing text  title
+https://dood.yt/d/xxtxjk7txgiiclir4epqbxjovrti29lt
+
+6 Lab  3 SQLi UNION attack determining the number of columns returned by  title
+https://dood.yt/d/wqxkvfvjke93m91ds5fit4kbhly1c0zf
+
+4 Lab  1 SQL injection vulnerability in WHERE clause allowing retrieval  title
+https://dood.yt/d/tlzqkavujmz4w6mewklnl1fpfzgjybaf
+
+3 SQL Injection
+https://dood.yt/d/71y1nam2y9mn82w5ls38zvumz8elv3kg
+
+5 Lab  2 SQL injection vulnerability allowing login bypass
+https://dood.yt/d/bhck2p9t04zc0ck7cfnrnljc89f8vy0z
+
+1 Introduction to the Web Security Academy Seriesw
+https://dood.yt/d/75cm4y6mca0y5es8hdkln943cbk7w8tf
