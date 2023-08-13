@@ -1,0 +1,22 @@
+Check what the files below means - November 9
+https://www.upguard.com/breaches/medibank-data-leak
+
+Abortions.csv
+Boozy.csv
+psycho1.csv
+Grid_Report_export_WS_16-06-2022.xlsx
+good-list.json
+naughty-list.json
+oscar.7z
+students.7z
+
+How it was done?
+1 - Tor Browser (Tor ips were blocked in Breached.to)
+2 - Glype proxy (Funnel traffic throw here)
+3 - Breached.to was taken down (Site was taken down)
+4 - Found ransomware onion list on cache breached.to
+5 - Found ransomware onion
+6 - Got the post and onion address
+7 - Upload to a file host using .onion.ly
+
+Note: Took 5 minutes.
