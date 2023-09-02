@@ -1,0 +1,6 @@
+In August 2023, PlayCyberGames which "allows users to play any games with LAN function or games using IP address" suffered
+a data breach which exposed 3.7M customer records. The data included email addresses, usernames and MD5 password hashes with
+a constant value in the "salt" field. PlayCyberGames did not respond to multiple attempts to disclose the breach.
+
+View:
+https://direct-link.net/68451/playcybergames-database-l
