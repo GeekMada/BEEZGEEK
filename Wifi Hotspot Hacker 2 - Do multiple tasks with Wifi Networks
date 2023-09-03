@@ -1,0 +1,16 @@
+Features:
+- Create and start a Hotspot with custom name and password.
+- Create and start a Fake Hotspot with the name of a existing Hotspot to knock it out.
+- Shows all the Wifi Networks near you
+- Deletes records of used Wifi connections
+- Get the password of active Wifi Networks. Check Security > Key Content
+
+Trick: If a user want to create a fake hotspot or knock any router on the network just name
+the hotspot with the same SSID (Including Caps). Any device that tries to connect to the network
+with the other router password will have their authentication failed.
+
+Download:
+http://gigapeta.com/dl/8351102a3103ad
+
+Virus Scan
+https://www.virustotal.com/#/file/bae5df43566765faeaab7ccac1ed6277d18711abdcad8cda67aefc7befcde1b5/detection
